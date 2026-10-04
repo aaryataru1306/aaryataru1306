@@ -1,89 +1,36 @@
-# Hi there, I'm Aarya Taru! 👋
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         AARYA TARU PROFILE                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-### Embedded Systems • Aerospace • Avionics • Software
+<div align="center">
 
-I'm an Electronics & Telecommunication Engineering student at
-**PICT, Pune**, passionate about building systems from the hardware
-level up — from microcontrollers and sensors to flight controllers,
-RTOS kernels and autonomous systems. 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:0369a1,100:06b6d4&height=220&section=header&text=AARYA%20TARU&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EMBEDDED%20SYSTEMS%20%7C%20AVIONICS%20%7C%20AEROSPACE&descAlignY=58&descSize=18" width="100%"/>
 
----
+<br>
 
-## 🛠️ Tech Stack & Skills
+<a href="https://github.com/aaryataru1306">
 
-### Languages
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Aarya+Taru+%F0%9F%91%8B;Embedded+Systems+%7C+Avionics+%7C+Aerospace;Building+Flight+Controllers+%F0%9F%9B%A9%EF%B8%8F;Designing+RTOS+from+the+Ground+Up+%E2%9A%99%EF%B8%8F;Sensor+Fusion+%7C+EKF+%7C+PID+%7C+Telemetry;Building+Systems+From+Bits+to+Flight+%F0%9F%9A%80" />
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+</a>
 
-### Embedded
+<br>
 
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=aaryataru1306&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" />
 
-### Areas of Interest
-
-- ⚡ Embedded C / C++
-- 🔧 Bare-metal Development
-- 🧠 RTOS & Kernel Development
-- 🎛️ Flight Controllers
-- 📡 LoRa & Telemetry
-- 🧭 Sensor Fusion & EKF
-- 🔌 PCB Design
-- 🚀 Aerospace & Avionics
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 About Me
 
-### 🛩️ GARUDA Flight Controller
-
-Custom flight-control platform featuring:
-
-- Teensy 4.1
-- IMU sensor fusion
-- EKF attitude estimation
-- PID control
-- PWM motor control
-- Telemetry systems
-
-### ⚙️ ANSA RTOS
-
-Custom RTOS for ARM Cortex-M microcontrollers.
-
-- Task scheduling
-- Inter-task communication
-- Sensor pipelines
-- Embedded kernel
-- Telemetry
-- Bare-metal architecture
-
-### 🌱 AgroHelp
-
-AI-powered agricultural system combining:
-
-- Soil sensors
-- Computer vision
-- Machine learning
-- Crop recommendation
-- Fertilizer recommendation
-
----
-
-## 📊 GitHub Stats
-
-![Aarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryataru1306&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryataru1306&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-
----
-
-### 🚀 Building systems from bits to flight.
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   Electronics & Telecommunication Engineering Student              │
+│                                                                     │
+│   I enjoy building systems from the hardware level up —            │
+│   from registers and interrupts to flight controllers,             │
+│   RTOS kernels and autonomous aerospace systems.                    │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
