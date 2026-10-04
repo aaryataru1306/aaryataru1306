@@ -1,36 +1,80 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         AARYA TARU PROFILE                              -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:0369a1,100:06b6d4&height=220&section=header&text=AARYA%20TARU&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=EMBEDDED%20SYSTEMS%20%7C%20AVIONICS%20%7C%20AEROSPACE&descAlignY=58&descSize=18" width="100%"/>
+# AARYA TARU
 
-<br>
+### Embedded Systems • Avionics • Aerospace
 
 <a href="https://github.com/aaryataru1306">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Aarya+Taru+%F0%9F%91%8B;Embedded+Systems+%7C+Avionics+%7C+Aerospace;Building+Flight+Controllers+%F0%9F%9B%A9%EF%B8%8F;Designing+RTOS+from+the+Ground+Up+%E2%9A%99%EF%B8%8F;Sensor+Fusion+%7C+EKF+%7C+PID+%7C+Telemetry;Building+Systems+From+Bits+to+Flight+%F0%9F%9A%80" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=50&lines=Embedded+Systems+Engineer;Flight+Controller+Developer;RTOS+%7C+Sensor+Fusion+%7C+Avionics;Building+Systems+From+Bits+to+Flight+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=aaryataru1306&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=aaryataru1306&label=PROFILE+VIEWS&color=000000&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   Electronics & Telecommunication Engineering Student              │
-│                                                                     │
-│   I enjoy building systems from the hardware level up —            │
-│   from registers and interrupts to flight controllers,             │
-│   RTOS kernels and autonomous aerospace systems.                    │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+I'm an **Electronics & Telecommunication Engineering student at PICT, Pune**, passionate about building systems close to the hardware.
+
+I enjoy taking ideas from **registers and interrupts all the way to complete autonomous systems** — designing firmware, working with sensors, building real-time systems, and integrating everything into reliable hardware.
+
+My primary interests are:
+
+- ⚡ Embedded Systems & Firmware
+- ⚙️ RTOS & Kernel Development
+- 🛩️ Flight Controllers & Avionics
+- 🧭 Sensor Fusion & State Estimation
+- 🎛️ PID & Control Systems
+- 📡 LoRa & Telemetry
+- 🔌 PCB & Electronics Design
+- 🤖 Autonomous Systems
+- 🚀 Aerospace Engineering
+
+> **I like understanding how things work at the lowest level — and then making them fly.**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 🔌 Embedded Platforms
+
+<p>
+<img src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Teensy-000000?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/RP2040-000000?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+</p>
+
+### ⚙️ Systems & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+### 🧠 Engineering
+
+<p>
+<img src="https://img.shields.io/badge/RTOS-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EKF-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PID_Control-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sensor_Fusion-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LoRa-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PCB_Design-000000?style=for-the-badge"/>
+</p>
+
+---
